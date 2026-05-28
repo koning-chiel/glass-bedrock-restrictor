@@ -1,0 +1,5 @@
+name: GlassBedrockRestrictor
+version: 1.0
+main: glassbedrockrestrictor.GlassBedrockRestrictor
+api-version: 1.21
+description: Prevents non-opped players from placing or breaking glass or bedrock.
