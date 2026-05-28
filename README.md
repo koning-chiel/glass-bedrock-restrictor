@@ -1,2 +1,2 @@
-# glass-bedrock-restrictor
-Minecraft plugin that restricts players from breaking glass or bedrock.
+# GlassBedrockRestrictor
+A Minecraft Spigot/Paper plugin that restricts non-opped players from breaking glass or bedrock, even in creative mode.
